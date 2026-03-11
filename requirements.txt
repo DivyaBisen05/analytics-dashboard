@@ -1,7 +1,6 @@
-STreamlit
-Pandas
-numpy
-scikit-learn
-mysql-coonector-python
-matplotlib
-seaborn
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+plotly==5.18.0
+scikit-learn==1.4.1
+mysql-connector-python==8.3.0
