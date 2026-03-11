@@ -1,0 +1,7 @@
+STreamlit
+Pandas
+numpy
+scikit-learn
+mysql-coonector-python
+matplotlib
+seaborn
